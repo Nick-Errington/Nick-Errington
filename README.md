@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on **Projects with Microsoft Azure, Sentinel, Defender for Cloud and AWS.**
 
-- 🌱 I’m currently learning **AWS Certified Cloud Practitioner**
+- 🌱 I’m currently studying for **The AWS Certified Cloud Practitioner**
+
+- 👨‍💻 All of my projects are available at **[https://github.com/stars/Nick-Errington/lists/projects](https://github.com/stars/Nick-Errington/lists/projects)**
 
 - 💬 Ask me about **AWS and Azure**
 
