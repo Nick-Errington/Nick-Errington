@@ -1,9 +1,7 @@
 ![Header](https://github.com/Nick-Errington/Nick-Errington/blob/main/github-header-image-blue.png)
 <h3><img align= "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/1a/d5/8c1ad58a1dfd2939da634f90fffe23f2.gif"/p></h3>
 
-<h3>Projects Highlights:</h3>
-
-- <b>[Building a Cloud SOC and Virtual Honeynet in Microsoft Azure](https://github.com/Nick-Errington/Cloud-SOC-Honeynet)</b>
+- ✨ Project Highlight: **[Creating a Live SOC / Honeynet in Azure](https://github.com/Nick-Errington/Cloud-SOC-Honeynet)**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/stars/Nick-Errington/lists/projects](https://github.com/stars/Nick-Errington/lists/projects)**
 
