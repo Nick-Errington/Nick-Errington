@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **nickaerrington@gmail.com**
 
+<img align= "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/1a/d5/8c1ad58a1dfd2939da634f90fffe23f2.gif" alt="Nick Errington" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/nerrington" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nerrington" height="30" width="40" /></a>
