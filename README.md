@@ -1,4 +1,4 @@
-![Header](https://github.com/Nick-Errington/Nick-Errington/blob/main/github-header-image%20(9).png)
+![Header](https://github.com/Nick-Errington/Nick-Errington/blob/main/github-header-image-blue.png)
 <h3 align="center"></h3>
 <img align= "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/1a/d5/8c1ad58a1dfd2939da634f90fffe23f2.gif"/p>
 
